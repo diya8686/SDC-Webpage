@@ -9,6 +9,6 @@ Science may be as old as human beings, and some of the earliest archaeological e
 Modern Science is typically divided into three branches:
 ### Natural Sciences(biology,chemistry and physics)
 ### Social Sciences(economics, psychology and sociology)
-### formal sciences(logic,mathematics and theoretical computer science)
+### Formal sciences(logic,mathematics and theoretical computer science)
 
 For more information [click here](en.m.wikipedia.org)
